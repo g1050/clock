@@ -98,4 +98,4 @@ class ImageProcessor:
 # processor.resize_and_save()
 
 # 可视化图像
-ImageProcessor.visualize_image_from_file(file_path='img/file.txt')
+ImageProcessor.visualize_image_from_file(file_path='txt/frame_18.txt')
