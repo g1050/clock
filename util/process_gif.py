@@ -78,8 +78,8 @@ class ImageProcessor:
 
 # 使用示例
 if __name__ == "__main__":
-    input_gif_path = './img/loopy.gif'  # 请替换为你的 GIF 文件路径
-    output_folder = './txt'  # 请替换为你想要保存帧的文件夹路径
+    input_gif_path = './img/loopy.gif'  
+    output_folder = './txt'  
     target_size = (240, 240)
 
     processor = ImageProcessor(input_image_path=input_gif_path, output_folder=output_folder)
